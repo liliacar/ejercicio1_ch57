@@ -2,3 +2,5 @@ lista del super:
 1.huevo
 2.jamon
 3. desayuno de emergencia
+4. leche descremada
+5. tortillas
