@@ -4,3 +4,6 @@ lista del super:
 3. desayuno de emergencia
 4. leche descremada
 5. tortillas
+6. queso
+7. chocolate
+
