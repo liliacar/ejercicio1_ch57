@@ -10,4 +10,7 @@ lista del super:
 9. pescado
 8- yogurth
 9. pescado
-
+10. pepino
+11.coliflor
+12. papitas
+13. cacahuates
